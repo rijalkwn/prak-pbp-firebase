@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060946012372",
+    "firebase_url": "https://praktikum-firebase-af3c4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "praktikum-firebase-af3c4",
+    "storage_bucket": "praktikum-firebase-af3c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060946012372:android:61df5d44b633ec0b95b341",
+        "android_client_info": {
+          "package_name": "com.example.aplikasifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060946012372-e1kn0jmv4odamelcl32o0b2bn72if9t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS6_ybg_yuGGHfoX-rkqGRlgY1U0rPlXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060946012372-e1kn0jmv4odamelcl32o0b2bn72if9t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
